@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< Updated upstream
+=======
+
+#ignore csv
+*.csv
+
+#ignore xlsx
+*.xlsx
+
+*.docx
+>>>>>>> Stashed changes
